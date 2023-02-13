@@ -40,7 +40,7 @@ created_at date,
 updated_at date
 );
 
-alter table Trainer add admin_id int foreign key references Admin(admin_id);
+alter table Trainer add foreign key(admin_id) references admin(admin_id);
 
 --Course Table
 Create table Course(
@@ -53,6 +53,7 @@ admin_id int foreign key references Admin(admin_id),
 created_at date,
 updated_at date
 );
+alter table Course add foreign key(admin_id) references admin(admin_id);
 
 --Payment Table
 Create table Payment(
@@ -62,6 +63,7 @@ course_id int foreign key references Course(course_id),
 created_at date,
 updated_at date,
 ); 
+alter table Payment add isActive bit not null;
 
 --Student Available Time
 Create table Candidate_Avail_Time(
@@ -71,6 +73,9 @@ date_avail date not null,
 time_avail time not null,
 IsActive bit
  );
+ alter table Candidate_Avail_Time drop column  date_avail,time_avail;
+ alter table Candidate_Avail_Time add time_avail datetime not null;
+
 
 --Trainer Available Time
 Create table Trainer_Avail_Time(
@@ -80,6 +85,8 @@ date_avail date not null,
 time_avail time not null,
 IsActive bit
  );
+ alter table Trainer_Avail_Time drop column  date_avail,time_avail;
+ alter table Trainer_Avail_Time add time_avail datetime not null;
 
 --Scheduling Table
 Create Table Scheduling(
@@ -92,6 +99,9 @@ date_scheduled date not null,
 time_scheduled time not null
  );
 
+ alter table Scheduling drop column date_scheduled,time_scheduled;
+ alter table Scheduling add isActive bit not null,created_at datetime not null,updated_at datetime not null,date_scheduled datetime not null;
+ 
  --Candidate to Course
 Create table Candidate_Course(
 id int primary key identity(1,1),
@@ -103,6 +113,7 @@ IsActive bit not null,
 created_at date,
 updated_at date
 );
+alter table Candidate_Course drop column course_name;
 
  --Trainer_Course
 Create Table Trainer_Course(
@@ -111,4 +122,4 @@ trainer_id int foreign key references Trainer(trainer_id),
 course_id int foreign key references Course(course_id)
 );
 
-
+alter table Trainer_Course add isActive bit not null,created_at datetime not null,updated_at datetime not null;
