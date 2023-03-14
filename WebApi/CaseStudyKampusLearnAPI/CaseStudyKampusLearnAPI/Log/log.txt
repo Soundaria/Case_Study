@@ -1,0 +1,291 @@
+2023-03-14 10:15:48,890  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2023-03-14 10:15:48,909  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2023-03-14 10:15:48,913  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Users\SOUNDARIA\OneDrive\Documents\College\Hexaware\.Net React Training\CASE STUDY\KampusLearn\WebApi\CaseStudyKampusLearnAPI\CaseStudyKampusLearnAPI
+ 2023-03-14 10:16:15,573  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidate Added successfully
+ 2023-03-14 10:16:16,108  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-14 10:16:16,144  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:16:16,179  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-14 10:16:16,206  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:16:16,228  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:16:16,238  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:16:16,258  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:16:16,311  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:16:16,326  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:16:16,344  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:20:56,060  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-14 10:20:56,067  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:20:56,070  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:20:56,083  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-14 10:20:56,090  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:20:56,097  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:20:56,112  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:20:56,119  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:20:56,126  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:20:56,138  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:24:48,795  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:25:35,539  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-14 10:25:35,564  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:37:15,665  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:37:15,763 ERROR CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: No admin data found.. Try again
+ 2023-03-14 10:38:08,155  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,180  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Admin added successfully.. And JWt token is created
+ 2023-03-14 10:38:08,228  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,264  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,270  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,324  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,418  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,429  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,449  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,465  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,472  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,489  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,495  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,512  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,542  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,548  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,555  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,562  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,603  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,606  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,616  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,624  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,669  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,677  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,684  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,697  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,780  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,784  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,795  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,802  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,807  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,815  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,819  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,829  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,852  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,855  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,866  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,873  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,908  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,912  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,922  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,932  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,960  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:08,964  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,982  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:08,987  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,004  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,009  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,018  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,024  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,050  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,053  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,063  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,068  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,095  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,099  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,108  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,114  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,149  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,153  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,159  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,166  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,199  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,202  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,214  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,220  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,246  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,250  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,263  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,268  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,301  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,305  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,316  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,324  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,365  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,368  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,378  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,385  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,420  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,424  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,434  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,440  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,480  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,486  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,493  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,502  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,531  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,536  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,544  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,551  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,592  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,595  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,605  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,612  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,641  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,645  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,652  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,660  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,751  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,760  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,767  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,776  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,780  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,791  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,795  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,805  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,812  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,816  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,827  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,836  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,842  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,849  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,856  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,863  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,897  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,901  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,913  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,919  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,949  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,954  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:09,964  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:09,970  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,007  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,011  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,020  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,030  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,062  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,065  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,071  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,078  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,114  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,122  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,126  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,141  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,167  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,171  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,180  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,191  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,227  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,234  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,244  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,253  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,283  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,288  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,296  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,302  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,333  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,339  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,344  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,352  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,386  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,397  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,401  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,419  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,448  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,457  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,464  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,474  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,504  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,510  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,521  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,530  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,559  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,563  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,569  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,578  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,612  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,616  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,624  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,633  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,663  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,670  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,679  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,689  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,718  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,725  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,733  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,742  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,769  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,774  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:10,780  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:38:10,786  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:20,496  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Admin details are listed
+ 2023-03-14 10:38:20,506  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Admin details are listed
+ 2023-03-14 10:38:30,586  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Trainers details are listed with id : 1
+ 2023-03-14 10:38:30,609  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Trainers details are listed with id : 1
+ 2023-03-14 10:38:33,683  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course details are listed by admin id : 1
+ 2023-03-14 10:38:33,698  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course details are listed by admin id : 1
+ 2023-03-14 10:38:36,528  INFO CaseStudyKampusLearnAPI.Models.Trainer.? [?] - MESSAGE: Trainers details are listed
+ 2023-03-14 10:38:36,552  INFO CaseStudyKampusLearnAPI.Models.Trainer.? [?] - MESSAGE: Trainers details are listed
+ 2023-03-14 10:38:44,934  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:44,945  INFO CaseStudyKampusLearnAPI.Models.Trainer.? [?] - MESSAGE: Trainers details are listed
+ 2023-03-14 10:38:44,957  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:44,965  INFO CaseStudyKampusLearnAPI.Models.Trainer.? [?] - MESSAGE: Trainers details are listed
+ 2023-03-14 10:38:49,298  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:38:49,315  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:39:00,179  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by admin id : 3
+ 2023-03-14 10:39:03,080  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:39:03,121  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidates are listed
+ 2023-03-14 10:39:05,488  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:39:05,511  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:39:34,881  INFO CaseStudyKampusLearnAPI.Models.Trainer.? [?] - MESSAGE: Trainer added successfully and jwt token created
+ 2023-03-14 10:39:34,995  INFO CaseStudyKampusLearnAPI.Models.Trainer.? [?] - MESSAGE: Trainers details are listed with id : 1
+ 2023-03-14 10:39:35,005  INFO CaseStudyKampusLearnAPI.Models.Trainer.? [?] - MESSAGE: Trainers details are listed with id : 1
+ 2023-03-14 10:39:39,206  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course added to trainers and the details are listed
+ 2023-03-14 10:39:39,286  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Course added to trainers and the details are listed
+ 2023-03-14 10:39:42,271  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:39:42,292  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:40:00,896  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Candidate Added successfully
+ 2023-03-14 10:40:00,989  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-14 10:40:01,000  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:40:01,031  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:40:01,040  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-14 10:40:01,048  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:40:01,057  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:40:01,064  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:40:01,073  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:40:01,093  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:40:01,106  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:40:11,135  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Course registered already
+ 2023-03-14 10:40:16,646  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-14 10:40:16,650  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:40:16,662  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-14 10:40:16,668  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:40:16,672  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:40:16,686  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:40:16,692  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:40:16,704  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:40:16,708  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:40:16,718  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:40:20,478  INFO CaseStudyKampusLearnAPI.Models.Admin.? [?] - MESSAGE: Payment Added details
+ 2023-03-14 10:40:24,278  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:40:24,282  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-14 10:40:24,287  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:40:24,313  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-14 10:40:24,336  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:40:24,348  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:40:24,371  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:40:24,380  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 10:40:24,407  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 10:40:24,414  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 11:13:04,735  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-14 11:13:04,761  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 11:13:04,773  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 11:13:04,784  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-14 11:13:04,817  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 11:13:04,826  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 11:13:04,842  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 11:13:04,848  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 11:13:04,866  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 11:13:04,871  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 11:36:38,147  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-14 11:36:38,154  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 11:36:38,189  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 11:36:38,205  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed by ascending name of course name
+ 2023-03-14 11:36:38,215  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 11:36:38,224  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 11:36:38,234  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 11:36:38,238  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 2023-03-14 11:36:38,249  INFO CaseStudyKampusLearnAPI.Models.Course.? [?] - MESSAGE: Course details are listed
+ 2023-03-14 11:36:38,255  INFO CaseStudyKampusLearnAPI.Models.CandidateCourse.? [?] - MESSAGE: Candidates according to their courses are listed
+ 
